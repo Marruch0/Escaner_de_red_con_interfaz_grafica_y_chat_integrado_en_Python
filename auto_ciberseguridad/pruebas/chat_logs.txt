@@ -1,0 +1,393 @@
+[2025-05-19 19:10:07] SISTEMA: Servidor iniciado
+[2025-05-19 19:10:36] SISTEMA: Cliente conectado desde IP: 127.0.0.1:49706
+[2025-05-19 19:11:19] SISTEMA: Cliente conectado desde IP: 127.0.0.1:53724
+[2025-05-19 19:11:19] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 19:11:24] admin: hola
+[2025-05-19 19:11:25] admin: pene
+[2025-05-19 19:11:29] admin: que tal
+[2025-05-19 19:26:51] SISTEMA: El usuario admin ha creado un nuevo usuario: jesus con rol user
+[2025-05-19 19:26:55] admin: 
+--El usuario [admin] se ha desconectado
+
+[2025-05-19 19:26:55] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 19:27:04] SISTEMA: Cliente conectado desde IP: 127.0.0.1:46444
+[2025-05-19 19:27:04] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 19:27:16] jesus: /adduser victor 1234
+[2025-05-19 19:27:18] jesus: pene
+[2025-05-19 19:27:21] jesus: 
+--El usuario [jesus] se ha desconectado
+
+[2025-05-19 19:27:21] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 19:30:46] SISTEMA: Servidor iniciado
+[2025-05-19 19:30:55] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35176
+[2025-05-19 19:30:55] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 19:31:04] admin: Hola
+[2025-05-19 19:31:06] admin: solicitó lista de usuarios conectados
+[2025-05-19 19:31:15] admin: solicitó lista de usuarios conectados
+[2025-05-19 19:31:19] admin: 
+--El usuario [admin] se ha desconectado
+
+[2025-05-19 19:31:19] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 19:32:56] SISTEMA: Servidor iniciado
+[2025-05-19 19:33:06] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35584
+[2025-05-19 19:33:06] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 19:33:11] admin: holaa
+[2025-05-19 19:33:12] admin: pene
+[2025-05-19 19:33:48] SISTEMA: Cliente conectado desde IP: 127.0.0.1:45388
+[2025-05-19 19:33:48] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 19:34:00] jesus: hola
+[2025-05-19 19:34:06] admin: Hola Jesus que tal estas
+[2025-05-19 19:34:12] jesus: Bien gilipollas
+[2025-05-19 19:34:17] admin: como?
+[2025-05-19 19:34:19] admin: solicitó lista de usuarios conectados
+[2025-05-19 19:34:34] admin: /kick jesus [por insultar]
+[2025-05-19 19:34:56] admin: /userlist
+[2025-05-19 19:39:08] SISTEMA: Servidor iniciado
+[2025-05-19 19:39:31] SISTEMA: Cliente conectado desde IP: 127.0.0.1:41896
+[2025-05-19 19:39:31] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 19:40:04] SISTEMA: Cliente conectado desde IP: 127.0.0.1:34314
+[2025-05-19 19:40:04] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 19:40:11] jesus: hola
+[2025-05-19 19:40:14] admin: hola tonto
+[2025-05-19 19:40:17] jesus: subnormal
+[2025-05-19 19:40:20] admin: como
+[2025-05-19 19:40:22] jesus: puto
+[2025-05-19 19:40:35] SISTEMA: El usuario jesus ha sido expulsado por admin. Razón: [por insultar]
+[2025-05-19 19:40:42] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 19:41:52] SISTEMA: El usuario jesus ha sido bloqueado por admin durante 1 minutos. Razón: Sin razón especificada
+[2025-05-19 19:41:59] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35412
+[2025-05-19 19:42:01] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35416
+[2025-05-19 19:42:01] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35424
+[2025-05-19 19:42:02] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35428
+[2025-05-19 19:42:02] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35436
+[2025-05-19 19:42:02] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35438
+[2025-05-19 19:42:02] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35440
+[2025-05-19 19:42:02] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35442
+[2025-05-19 19:42:16] SISTEMA: El usuario jesus ha sido desbloqueado por admin
+[2025-05-19 19:42:23] SISTEMA: Cliente conectado desde IP: 127.0.0.1:43162
+[2025-05-19 19:42:23] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 19:42:27] jesus: hola
+[2025-05-19 19:42:27] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 19:43:04] SISTEMA: El usuario admin ha creado un nuevo usuario: veronica con rol user
+[2025-05-19 19:43:11] SISTEMA: Cliente conectado desde IP: 127.0.0.1:46484
+[2025-05-19 19:43:14] SISTEMA: Cliente conectado desde IP: 127.0.0.1:41514
+[2025-05-19 19:43:15] SISTEMA: Cliente conectado desde IP: 127.0.0.1:41518
+[2025-05-19 19:43:15] SISTEMA: Cliente conectado desde IP: 127.0.0.1:41528
+[2025-05-19 19:43:18] SISTEMA: Cliente conectado desde IP: 127.0.0.1:41536
+[2025-05-19 19:43:18] SISTEMA: Cliente conectado desde IP: 127.0.0.1:41548
+[2025-05-19 19:43:18] SISTEMA: Cliente conectado desde IP: 127.0.0.1:41564
+[2025-05-19 19:43:20] SISTEMA: Cliente conectado desde IP: 127.0.0.1:41566
+[2025-05-19 19:43:24] SISTEMA: Cliente conectado desde IP: 127.0.0.1:55076
+[2025-05-19 19:43:28] SISTEMA: Cliente conectado desde IP: 127.0.0.1:55092
+[2025-05-19 19:51:48] SISTEMA: Servidor iniciado
+[2025-05-19 19:51:58] SISTEMA: Cliente conectado desde IP: 127.0.0.1:43916
+[2025-05-19 19:51:58] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 19:52:25] SISTEMA: El usuario admin ha creado un nuevo usuario: Victor con rol user
+[2025-05-19 19:53:05] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 19:58:28] SISTEMA: Servidor iniciado
+[2025-05-19 19:58:42] SISTEMA: Cliente conectado desde IP: 127.0.0.1:42676
+[2025-05-19 19:58:42] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 19:58:47] admin: solicitó lista de usuarios conectados
+[2025-05-19 19:58:58] admin: 
+--El usuario [admin] se ha desconectado
+
+[2025-05-19 19:58:58] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 20:01:40] SISTEMA: Servidor iniciado
+[2025-05-19 20:01:45] SISTEMA: Cliente conectado desde IP: 127.0.0.1:56664
+[2025-05-19 20:01:45] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 20:01:48] admin: 
+--El usuario [admin] se ha desconectado
+
+[2025-05-19 20:01:48] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 20:04:43] SISTEMA: Servidor iniciado
+[2025-05-19 20:04:51] SISTEMA: Cliente conectado desde IP: 127.0.0.1:52426
+[2025-05-19 20:04:51] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 20:05:10] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 20:05:20] SISTEMA: Cliente conectado desde IP: 127.0.0.1:57734
+[2025-05-19 20:05:20] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 20:06:00] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 20:06:41] SISTEMA: Cliente conectado desde IP: 127.0.0.1:55234
+[2025-05-19 20:06:41] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 20:06:46] jesus: hola
+[2025-05-19 20:06:47] jesus: pene
+[2025-05-19 20:06:49] jesus: 
+--El usuario [jesus] se ha desconectado
+
+[2025-05-19 20:06:49] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 20:06:54] SISTEMA: Cliente conectado desde IP: 127.0.0.1:51402
+[2025-05-19 20:06:54] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 20:06:56] admin: hola
+[2025-05-19 20:06:57] admin: pene
+[2025-05-19 20:07:16] SISTEMA: El usuario Victor ha sido bloqueado por admin durante 525600 minutos. Razón: Sin razón especificada
+[2025-05-19 20:07:24] admin: hola
+[2025-05-19 20:07:26] admin: pene
+[2025-05-19 20:07:46] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 20:12:45] SISTEMA: Servidor iniciado
+[2025-05-19 20:12:57] SISTEMA: Cliente conectado desde IP: 127.0.0.1:44920
+[2025-05-19 20:12:57] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 20:13:02] admin: hola
+[2025-05-19 20:13:03] admin: pene
+[2025-05-19 20:13:18] SISTEMA: El usuario admin ha creado un nuevo usuario: Lucia con rol user
+[2025-05-19 20:13:34] SISTEMA: El usuario Lucia ha sido bloqueado por admin durante 5 minutos. Razón: Sin razón especificada
+[2025-05-19 20:13:41] SISTEMA: El usuario Lucia ha sido desbloqueado por admin
+[2025-05-19 20:14:10] admin: 
+--El usuario [admin] se ha desconectado
+
+[2025-05-19 20:14:10] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 20:14:18] SISTEMA: Cliente conectado desde IP: 127.0.0.1:38206
+[2025-05-19 20:18:07] SISTEMA: Servidor iniciado
+[2025-05-19 20:18:16] SISTEMA: Cliente conectado desde IP: 127.0.0.1:34666
+[2025-05-19 20:18:16] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 20:19:05] SISTEMA: El usuario admin ha creado un nuevo usuario: Veronica con rol user
+[2025-05-19 20:19:16] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 20:19:22] SISTEMA: Cliente conectado desde IP: 127.0.0.1:57624
+[2025-05-19 20:19:22] SISTEMA: El usuario [Veronica] se ha conectado al chat con rol: user
+[2025-05-19 20:19:28] Veronica: Hola
+[2025-05-19 20:19:30] Veronica: pene
+[2025-05-19 20:19:33] Veronica: 
+--El usuario [Veronica] se ha desconectado
+
+[2025-05-19 20:19:33] SISTEMA: El usuario [Veronica] se ha desconectado del chat
+[2025-05-19 20:30:01] SISTEMA: Servidor iniciado
+[2025-05-19 20:30:16] SISTEMA: Cliente conectado desde IP: 127.0.0.1:59620
+[2025-05-19 20:30:16] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 20:30:28] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 20:30:29] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 20:30:30] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 20:30:35] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 20:35:16] SISTEMA: Servidor iniciado
+[2025-05-19 20:35:26] SISTEMA: Cliente conectado desde IP: 127.0.0.1:46620
+[2025-05-19 20:35:26] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 20:35:41] SISTEMA: Cliente conectado desde IP: 127.0.0.1:50676
+[2025-05-19 20:35:41] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 20:35:50] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 20:35:51] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 20:35:52] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 20:35:58] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 20:36:00] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 20:40:00] SISTEMA: Servidor iniciado
+[2025-05-19 20:40:09] SISTEMA: Cliente conectado desde IP: 127.0.0.1:38932
+[2025-05-19 20:40:09] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 20:40:18] SISTEMA: Cliente conectado desde IP: 127.0.0.1:47108
+[2025-05-19 20:40:18] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 20:40:28] admin: hola
+[2025-05-19 20:40:30] jesus: hola puta
+[2025-05-19 20:40:35] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 20:40:38] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 20:40:45] jesus: 
+--El usuario [jesus] se ha desconectado
+
+[2025-05-19 20:40:45] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 20:40:57] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 20:40:57] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 20:44:54] SISTEMA: Servidor iniciado
+[2025-05-19 20:45:04] SISTEMA: Cliente conectado desde IP: 127.0.0.1:34664
+[2025-05-19 20:45:04] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 20:45:24] SISTEMA: Cliente conectado desde IP: 127.0.0.1:41156
+[2025-05-19 20:45:24] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 20:45:31] admin: hola
+[2025-05-19 20:45:31] admin: oene
+[2025-05-19 20:45:33] admin: pene
+[2025-05-19 20:45:39] jesus: pene
+[2025-05-19 20:45:48] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 20:54:24] SISTEMA: Servidor iniciado
+[2025-05-19 20:54:33] SISTEMA: Cliente conectado desde IP: 127.0.0.1:33328
+[2025-05-19 20:54:33] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 20:54:47] SISTEMA: Cliente conectado desde IP: 127.0.0.1:47260
+[2025-05-19 20:54:47] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 20:54:50] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 20:55:02] admin: hola
+[2025-05-19 20:55:04] admin: pene
+[2025-05-19 20:55:07] jesus: pene
+[2025-05-19 20:55:10] jesus: hola
+[2025-05-19 20:55:11] jesus: pene
+[2025-05-19 20:55:14] jesus: puta
+[2025-05-19 20:55:16] jesus: hola
+[2025-05-19 20:55:16] jesus: hola
+[2025-05-19 20:55:18] jesus: hola
+[2025-05-19 20:56:08] SISTEMA: Servidor iniciado
+[2025-05-19 20:56:23] SISTEMA: Cliente conectado desde IP: 127.0.0.1:43582
+[2025-05-19 20:56:23] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 20:56:31] SISTEMA: Cliente conectado desde IP: 127.0.0.1:42502
+[2025-05-19 20:56:31] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 20:56:38] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 20:56:44] SISTEMA: Cliente conectado desde IP: 127.0.0.1:59178
+[2025-05-19 20:56:45] SISTEMA: Cliente conectado desde IP: 127.0.0.1:59194
+[2025-05-19 20:56:45] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 20:56:49] jesus: hola
+[2025-05-19 20:56:50] jesus: hola
+[2025-05-19 20:56:52] jesus: pene
+[2025-05-19 20:56:52] jesus: pne
+[2025-05-19 20:56:54] jesus: pene
+[2025-05-19 20:56:57] admin: hola
+[2025-05-19 20:57:00] admin: hola
+[2025-05-19 20:57:02] admin: kesus
+[2025-05-19 20:57:03] admin: puta
+[2025-05-19 20:57:04] admin: pta
+[2025-05-19 20:57:07] jesus: puta
+[2025-05-19 20:57:13] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 20:57:21] jesus: hola
+[2025-05-19 20:57:28] jesus: hola
+[2025-05-19 20:57:29] jesus: pene
+[2025-05-19 20:57:31] jesus: pene
+[2025-05-19 20:57:32] jesus: 
+--El usuario [jesus] se ha desconectado
+
+[2025-05-19 20:57:33] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 20:57:34] admin: 
+--El usuario [admin] se ha desconectado
+
+[2025-05-19 20:57:34] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 21:05:53] SISTEMA: Servidor iniciado
+[2025-05-19 21:06:04] SISTEMA: Cliente conectado desde IP: 127.0.0.1:48122
+[2025-05-19 21:06:11] SISTEMA: Cliente conectado desde IP: 127.0.0.1:48130
+[2025-05-19 21:06:11] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 21:06:22] admin: hola
+[2025-05-19 21:06:34] SISTEMA: Cliente conectado desde IP: 127.0.0.1:34656
+[2025-05-19 21:06:34] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 21:06:40] jesus: hola
+[2025-05-19 21:06:41] jesus: pene
+[2025-05-19 21:06:43] admin: puta
+[2025-05-19 21:06:46] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 21:06:54] jesus: 
+--El usuario [jesus] se ha desconectado
+
+[2025-05-19 21:06:54] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 21:07:21] SISTEMA: Cliente conectado desde IP: 127.0.0.1:52132
+[2025-05-19 21:07:30] SISTEMA: El usuario Victor ha sido desbloqueado por admin
+[2025-05-19 21:07:32] SISTEMA: Cliente conectado desde IP: 127.0.0.1:43612
+[2025-05-19 21:07:32] SISTEMA: El usuario [Victor] se ha conectado al chat con rol: user
+[2025-05-19 21:07:38] Victor: holaaaaa
+[2025-05-19 21:07:51] admin: 
+--El usuario [admin] se ha desconectado
+
+[2025-05-19 21:07:51] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 21:08:00] SISTEMA: Cliente conectado desde IP: 127.0.0.1:54804
+[2025-05-19 21:08:00] SISTEMA: El usuario [Victor] se ha conectado al chat con rol: user
+[2025-05-19 21:08:03] SISTEMA: El usuario [Victor] se ha desconectado del chat
+[2025-05-19 21:08:04] Victor: 
+--El usuario [Victor] se ha desconectado
+
+[2025-05-19 21:08:04] SISTEMA: El usuario [Victor] se ha desconectado del chat
+[2025-05-19 21:11:46] SISTEMA: Servidor iniciado
+[2025-05-19 21:11:57] SISTEMA: Cliente conectado desde IP: 127.0.0.1:57024
+[2025-05-19 21:11:57] SISTEMA: El usuario [Victor] se ha conectado al chat con rol: user
+[2025-05-19 21:12:07] SISTEMA: Cliente conectado desde IP: 127.0.0.1:34996
+[2025-05-19 21:12:07] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35000
+[2025-05-19 21:12:07] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35004
+[2025-05-19 21:12:07] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35018
+[2025-05-19 21:12:07] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35030
+[2025-05-19 21:12:07] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35036
+[2025-05-19 21:12:08] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35038
+[2025-05-19 21:12:08] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35042
+[2025-05-19 21:12:08] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35046
+[2025-05-19 21:12:08] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35056
+[2025-05-19 21:12:08] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35064
+[2025-05-19 21:12:08] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35070
+[2025-05-19 21:12:08] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35076
+[2025-05-19 21:12:14] SISTEMA: Cliente conectado desde IP: 127.0.0.1:55456
+[2025-05-19 21:12:14] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 21:12:20] Victor: hola
+[2025-05-19 21:12:20] SISTEMA: El usuario [Victor] se ha desconectado del chat
+[2025-05-19 21:12:30] admin: hola
+[2025-05-19 21:12:30] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 21:16:14] SISTEMA: Servidor iniciado
+[2025-05-19 21:16:22] SISTEMA: Cliente conectado desde IP: 127.0.0.1:53920
+[2025-05-19 21:16:22] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 21:16:25] admin: hola
+[2025-05-19 21:16:25] admin: hola
+[2025-05-19 21:16:26] admin: pene
+[2025-05-19 21:16:35] SISTEMA: Cliente conectado desde IP: 127.0.0.1:37570
+[2025-05-19 21:16:35] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 21:16:38] jesus: hola
+[2025-05-19 21:16:39] jesus: oebe
+[2025-05-19 21:16:41] jesus: pene
+[2025-05-19 21:16:51] SISTEMA: El usuario jesus ha sido bloqueado por admin durante 525600 minutos. Razón: Sin razón especificada
+[2025-05-19 21:16:58] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 21:17:10] SISTEMA: El usuario jesus ha sido desbloqueado por admin
+[2025-05-19 21:17:33] SISTEMA: Cliente conectado desde IP: 127.0.0.1:56300
+[2025-05-19 21:17:33] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 21:17:35] jesus: solicitó lista de usuarios conectados
+[2025-05-19 21:17:37] jesus: hola?
+[2025-05-19 21:17:41] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-19 21:17:50] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 21:17:52] jesus: 
+--El usuario [jesus] se ha desconectado
+
+[2025-05-19 21:17:52] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 21:18:01] SISTEMA: Cliente conectado desde IP: 127.0.0.1:56218
+[2025-05-19 21:18:01] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 21:18:08] SISTEMA: Cliente conectado desde IP: 127.0.0.1:40562
+[2025-05-19 21:18:12] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 21:27:52] SISTEMA: Servidor iniciado
+[2025-05-19 21:28:07] SISTEMA: Cliente conectado desde IP: 127.0.0.1:40470
+[2025-05-19 21:28:07] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 21:28:17] SISTEMA: Cliente conectado desde IP: 127.0.0.1:57882
+[2025-05-19 21:28:24] SISTEMA: Cliente conectado desde IP: 127.0.0.1:33658
+[2025-05-19 21:28:27] SISTEMA: Cliente conectado desde IP: 127.0.0.1:33662
+[2025-05-19 21:28:27] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 21:28:30] jesus: hola
+[2025-05-19 21:28:31] jesus: pene
+[2025-05-19 21:28:45] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 21:28:49] jesus: 
+--El usuario [jesus] se ha desconectado
+
+[2025-05-19 21:28:49] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 21:34:38] SISTEMA: Servidor iniciado
+[2025-05-19 21:35:01] SISTEMA: Cliente conectado desde IP: 127.0.0.1:51304
+[2025-05-19 21:35:01] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 21:35:16] SISTEMA: Cliente conectado desde IP: 127.0.0.1:49444
+[2025-05-19 21:35:32] SISTEMA: Cliente conectado desde IP: 127.0.0.1:37376
+[2025-05-19 21:35:32] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 21:35:34] admin: hola
+[2025-05-19 21:35:37] jesus: pene
+[2025-05-19 21:35:47] SISTEMA: El usuario jesus ha sido expulsado por admin. Razón: Sin razón especificada
+[2025-05-19 21:35:52] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 21:36:06] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 21:36:32] SISTEMA: Cliente conectado desde IP: 127.0.0.1:41266
+[2025-05-19 21:36:32] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 21:36:36] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 21:44:19] SISTEMA: Servidor iniciado
+[2025-05-19 21:44:30] SISTEMA: Cliente conectado desde IP: 127.0.0.1:49534
+[2025-05-19 21:44:30] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 21:44:41] SISTEMA: Cliente conectado desde IP: 127.0.0.1:38598
+[2025-05-19 21:44:41] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 21:44:49] admin: hola
+[2025-05-19 21:44:49] admin: pene
+[2025-05-19 21:44:52] admin: hola pene
+[2025-05-19 21:45:07] SISTEMA: El usuario jesus ha sido expulsado por admin. Razón: Sin razón especificada
+[2025-05-19 21:45:07] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 21:58:45] SISTEMA: Servidor iniciado
+[2025-05-19 21:59:11] SISTEMA: Cliente conectado desde IP: 127.0.0.1:57018
+[2025-05-19 21:59:11] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 21:59:21] SISTEMA: Cliente conectado desde IP: 127.0.0.1:33600
+[2025-05-19 21:59:21] SISTEMA: El usuario [jesus] se ha conectado al chat con rol: user
+[2025-05-19 21:59:28] SISTEMA: El usuario jesus ha sido expulsado por admin. Razón: Sin razón especificada
+[2025-05-19 21:59:28] SISTEMA: El usuario [jesus] se ha desconectado del chat
+[2025-05-19 21:59:42] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 22:13:18] SISTEMA: Servidor iniciado
+[2025-05-19 22:13:27] SISTEMA: Cliente conectado desde IP: 127.0.0.1:57460
+[2025-05-19 22:13:27] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-19 22:13:48] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-19 23:37:44] SISTEMA: Servidor iniciado
+[2025-05-20 00:06:46] SISTEMA: Cliente conectado desde IP: 127.0.0.1:53122
+[2025-05-20 00:06:46] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-20 00:07:05] admin: 
+--El usuario [admin] se ha desconectado
+
+[2025-05-20 00:07:05] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-20 00:22:03] SISTEMA: Cliente conectado desde IP: 127.0.0.1:50200
+[2025-05-20 00:22:03] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-20 00:22:33] SISTEMA: Cliente conectado desde IP: 127.0.0.1:40716
+[2025-05-20 00:22:33] SISTEMA: Cliente conectado desde IP: 127.0.0.1:40718
+[2025-05-20 00:22:33] SISTEMA: Cliente conectado desde IP: 127.0.0.1:40720
+[2025-05-20 00:24:26] SISTEMA: Cliente conectado desde IP: 127.0.0.1:56136
+[2025-05-20 00:24:26] SISTEMA: Cliente conectado desde IP: 127.0.0.1:56146
+[2025-05-20 00:24:26] SISTEMA: Cliente conectado desde IP: 127.0.0.1:56148
+[2025-05-20 00:24:39] SISTEMA: El usuario [admin] se ha desconectado del chat
+[2025-05-20 22:15:42] SISTEMA: Servidor iniciado
+[2025-05-20 22:16:07] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35310
+[2025-05-20 22:16:10] SISTEMA: Cliente conectado desde IP: 127.0.0.1:35322
+[2025-05-20 22:16:10] SISTEMA: El usuario [admin] se ha conectado al chat con rol: admin
+[2025-05-20 22:16:17] SISTEMA: El usuario admin ha consultado los logs del servidor
+[2025-05-20 22:16:20] SISTEMA: El usuario [admin] se ha desconectado del chat

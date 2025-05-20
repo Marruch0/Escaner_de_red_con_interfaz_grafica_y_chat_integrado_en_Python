@@ -1,0 +1,398 @@
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-20 20:30:11
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: Puertos comunes
+Modo sigilo: Desactivado
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Linux/Unix
+
+==== RESULTADOS DEL ESCANEO ====
+Puerto 22: Abierto (SSH) | Banner: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.11
+Puerto 80: Abierto (HTTP) | Banner: HTTP/1.1 200 OK
+Date: Tue, 20 May 2025 18:30:11 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Fri, 09 May 2025 18:22:27 GMT
+ETag: "29af-634b80c6c8f4b"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+
+==== TOPOLOGÍA DE RED ====
+Archivo: logs_escaneo/topo_20250520_203030.png
+
+Tiempo total: 3.19 segundos
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-20 20:31:03
+Usuario: root
+IP objetivo: 192.168.1.0
+Puertos: Puertos comunes
+Modo sigilo: Activado
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Desconocido
+
+==== RESULTADOS DEL ESCANEO ====
+No se encontraron puertos abiertos
+
+Tiempo total: 11.22 segundos
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-20 20:31:27
+Usuario: root
+IP objetivo: 192.168.1.151
+Puertos: Puertos comunes
+Modo sigilo: Activado
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Desconocido
+
+==== RESULTADOS DEL ESCANEO ====
+No se encontraron puertos abiertos
+
+Tiempo total: 5.19 segundos
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-20 20:36:49
+Usuario: root
+IP objetivo: 192.168.56.0
+Puertos: Puertos comunes
+Modo sigilo: Activado
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Desconocido
+
+==== RESULTADOS DEL ESCANEO ====
+No se encontraron puertos abiertos
+
+Tiempo total: 11.26 segundos
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-20 20:37:14
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: Puertos comunes
+Modo sigilo: Activado
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Linux/Unix
+
+==== RESULTADOS DEL ESCANEO ====
+Puerto 22: Abierto (SSH) | Banner: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.11
+Puerto 80: Abierto (HTTP) | Banner: HTTP/1.1 200 OK
+Date: Tue, 20 May 2025 18:37:14 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Fri, 09 May 2025 18:22:27 GMT
+ETag: "29af-634b80c6c8f4b"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+
+==== TOPOLOGÍA DE RED ====
+Archivo: logs_escaneo/topo_20250520_203732.png
+
+Tiempo total: 3.22 segundos
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-20 20:38:24
+Usuario: root
+IP objetivo: 192.168.56.3
+Puertos: Puertos comunes
+Modo sigilo: Activado
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Linux/Unix
+
+==== RESULTADOS DEL ESCANEO ====
+Puerto 21: Filtrado (FTP) | Banner: N/A
+Puerto 22: Abierto (SSH) | Banner: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.5
+Puerto 23: Filtrado (Telnet) | Banner: N/A
+Puerto 25: Filtrado (SMTP) | Banner: N/A
+Puerto 53: Filtrado (DNS) | Banner: N/A
+Puerto 80: Abierto (HTTP) | Banner: HTTP/1.1 200 OK
+Date: Tue, 20 May 2025 18:38:23 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Fri, 25 Oct 2024 08:42:05 GMT
+ETag: "8d-6254917fde9f0"
+Accept-Ranges: bytes
+Content-Length: 141
+Vary: Accept-Encoding
+Content-Type: text/html
+Puerto 110: Filtrado (POP3) | Banner: N/A
+Puerto 123: Filtrado (NTP) | Banner: N/A
+Puerto 135: Filtrado (Microsoft RPC) | Banner: N/A
+Puerto 139: Filtrado (NetBIOS) | Banner: N/A
+Puerto 143: Filtrado (IMAP) | Banner: N/A
+Puerto 443: Filtrado (HTTPS) | Banner: N/A
+Puerto 445: Filtrado (SMB) | Banner: N/A
+Puerto 993: Filtrado (IMAPS) | Banner: N/A
+Puerto 995: Filtrado (POP3S) | Banner: N/A
+Puerto 1433: Filtrado (Microsoft SQL Server) | Banner: N/A
+Puerto 3306: Filtrado (MySQL) | Banner: N/A
+Puerto 3389: Filtrado (RDP) | Banner: N/A
+Puerto 5900: Filtrado (VNC) | Banner: N/A
+Puerto 8080: Filtrado (HTTP Proxy) | Banner: N/A
+Puerto 8443: Filtrado (HTTPS-Alt) | Banner: N/A
+
+==== TOPOLOGÍA DE RED ====
+Archivo: logs_escaneo/topo_20250520_203845.png
+
+Tiempo total: 3.23 segundos
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-20 20:43:12
+Usuario: root
+IP objetivo: 192.168.56.0/24
+Puertos: N/A
+Modo sigilo: Desactivado
+
+
+==== DESCUBRIMIENTO DE HOSTS EN LA RED ====
+Explorando la red: 192.168.56.0/24
+
+Hosts descubiertos en la red 192.168.56.0/24:
+
+Total de hosts encontrados: 0
+
+==== DESCUBRIMIENTO DE HOSTS EN LA RED ====
+Explorando la red: 192.168.56.0/24
+
+Hosts descubiertos en la red 192.168.56.0/24:
+
+Total de hosts encontrados: 0
+No se encontraron suficientes hosts para generar una topología
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-20 20:45:09
+Usuario: root
+IP objetivo: 192.168.56.0
+Puertos: N/A
+Modo sigilo: Desactivado
+
+
+==== DESCUBRIMIENTO DE HOSTS EN LA RED ====
+Explorando la red derivada: 192.168.56.0/24 (basada en 192.168.56.0)
+
+Hosts descubiertos en la red 192.168.56.0/24:
+
+Total de hosts encontrados: 0
+
+==== DESCUBRIMIENTO DE HOSTS EN LA RED ====
+Explorando la red derivada: 192.168.56.0/24 (basada en 192.168.56.0)
+
+Hosts descubiertos en la red 192.168.56.0/24:
+
+Total de hosts encontrados: 0
+
+==== TOPOLOGÍA DE RED ====
+Archivo: logs_escaneo/topo_20250520_204524.png
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-20 20:48:01
+Usuario: root
+IP objetivo: 192.168.56.0
+Puertos: Puertos comunes
+Modo sigilo: Activado
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Desconocido
+
+==== RESULTADOS DEL ESCANEO DE 192.168.56.0 ====
+No se encontraron puertos abiertos
+
+==== DESCUBRIMIENTO DE HOSTS EN LA RED ====
+Explorando la red: 192.168.56.0/24
+
+Hosts descubiertos en la red 192.168.56.0/24:
+
+Total de hosts encontrados: 0
+No se encontraron dispositivos en la red para generar topología
+
+Tiempo total de escaneo: 11.24 segundos
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-20 22:05:35
+Usuario: root
+IP objetivo: 192.168.56.3
+Puertos: Puertos comunes
+Modo sigilo: Activado
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Linux/Unix
+
+==== RESULTADOS DEL ESCANEO DE 192.168.56.3 ====
+Puerto 22: Abierto (SSH) | Banner: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.8
+Puerto 80: Abierto (HTTP) | Banner: HTTP/1.1 200 OK
+Date: Tue, 20 May 2025 20:05:34 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Fri, 25 Oct 2024 08:42:05 GMT
+ETag: "8d-6254917fde9f0"
+Accept-Ranges: bytes
+Content-Length: 141
+Vary: Accept-Encoding
+Content-Type: text/html
+
+==== VULNERABILIDADES DETECTADAS ====
+
+Puerto 22: OpenSSH versión 9.6
+Vulnerabilidades encontradas:
+  - CVE-2024-6387: Vulnerabilidad de autenticación (SpectreSSH) (CVSS: 7.8)
+  - CVE-2024-8618: Desbordamiento de buffer en el procesamiento de paquetes (CVSS: 8.1)
+  - CVE-2024-3094: Vulnerabilidad de denegación de servicio en la negociación de algoritmos (CVSS: 6.5)
+
+Puerto 80: Apache versión 2.4.58
+Vulnerabilidades encontradas:
+  - CVE-2023-45801: Vulnerabilidad de escritura fuera de límites en mod_dav (CVSS: 8.2)
+  - CVE-2023-47761: Divulgación de información sensible en entornos de servidores virtuales (CVSS: 5.3)
+  - CVE-2023-25690: Vulnerabilidad de HTTP Request Smuggling en mod_proxy (CVSS: 7.1)
+  - CVE-2023-31122: Vulnerabilidad en mod_proxy_uwsgi (CVSS: 7.5)
+
+Tiempo total de escaneo: 3.24 segundos
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-20 22:06:25
+Usuario: root
+IP objetivo: 192.168.56.5
+Puertos: Puertos comunes
+Modo sigilo: Activado
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Linux/Unix
+
+==== RESULTADOS DEL ESCANEO DE 192.168.56.5 ====
+Puerto 21: Cerrado (FTP) | Banner: N/A
+Puerto 22: Abierto (SSH) | Banner: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.5
+Puerto 23: Cerrado (Telnet) | Banner: N/A
+Puerto 25: Cerrado (SMTP) | Banner: N/A
+Puerto 53: Cerrado (DNS) | Banner: N/A
+Puerto 80: Abierto (HTTP) | Banner: HTTP/1.1 200 OK
+Date: Tue, 20 May 2025 20:06:23 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Thu, 10 Oct 2024 11:43:36 GMT
+ETag: "29af-6241de18ad979"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+Puerto 110: Cerrado (POP3) | Banner: N/A
+Puerto 123: Cerrado (NTP) | Banner: N/A
+Puerto 135: Cerrado (Microsoft RPC) | Banner: N/A
+Puerto 139: Cerrado (NetBIOS) | Banner: N/A
+Puerto 143: Cerrado (IMAP) | Banner: N/A
+Puerto 443: Abierto (HTTPS) | Banner: Sin respuesta
+Puerto 445: Cerrado (SMB) | Banner: N/A
+Puerto 993: Cerrado (IMAPS) | Banner: N/A
+Puerto 995: Cerrado (POP3S) | Banner: N/A
+Puerto 1433: Cerrado (Microsoft SQL Server) | Banner: N/A
+Puerto 3306: Cerrado (MySQL) | Banner: N/A
+Puerto 3389: Cerrado (RDP) | Banner: N/A
+Puerto 5900: Cerrado (VNC) | Banner: N/A
+Puerto 8080: Cerrado (HTTP Proxy) | Banner: N/A
+Puerto 8443: Cerrado (HTTPS-Alt) | Banner: N/A
+
+==== VULNERABILIDADES DETECTADAS ====
+
+Puerto 22: OpenSSH versión 9.6
+Vulnerabilidades encontradas:
+  - CVE-2024-6387: Vulnerabilidad de autenticación (SpectreSSH) (CVSS: 7.8)
+  - CVE-2024-8618: Desbordamiento de buffer en el procesamiento de paquetes (CVSS: 8.1)
+  - CVE-2024-3094: Vulnerabilidad de denegación de servicio en la negociación de algoritmos (CVSS: 6.5)
+
+Puerto 80: Apache versión 2.4.58
+Vulnerabilidades encontradas:
+  - CVE-2023-45801: Vulnerabilidad de escritura fuera de límites en mod_dav (CVSS: 8.2)
+  - CVE-2023-47761: Divulgación de información sensible en entornos de servidores virtuales (CVSS: 5.3)
+  - CVE-2023-25690: Vulnerabilidad de HTTP Request Smuggling en mod_proxy (CVSS: 7.1)
+  - CVE-2023-31122: Vulnerabilidad en mod_proxy_uwsgi (CVSS: 7.5)
+
+Puerto 443: No se pudo identificar versión específica
+
+Tiempo total de escaneo: 3.28 segundos
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-20 22:07:43
+Usuario: root
+IP objetivo: 192.168.56.0/24
+Puertos: Puertos comunes
+Modo sigilo: Activado
+
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-20 22:14:05
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: Puertos comunes
+Modo sigilo: Activado
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Linux/Unix
+
+==== RESULTADOS DEL ESCANEO DE 192.168.56.10 ====
+Puerto 22: Abierto (SSH) | Banner: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.11
+Puerto 80: Abierto (HTTP) | Banner: HTTP/1.1 200 OK
+Date: Tue, 20 May 2025 20:14:01 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Fri, 09 May 2025 18:22:27 GMT
+ETag: "29af-634b80c6c8f4b"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+
+==== VULNERABILIDADES DETECTADAS ====
+
+Puerto 22: OpenSSH versión 9.6
+Vulnerabilidades encontradas:
+  - CVE-2024-6387: Vulnerabilidad de autenticación (SpectreSSH) (CVSS: 7.8)
+  - CVE-2024-8618: Desbordamiento de buffer en el procesamiento de paquetes (CVSS: 8.1)
+  - CVE-2024-3094: Vulnerabilidad de denegación de servicio en la negociación de algoritmos (CVSS: 6.5)
+
+Puerto 80: Apache versión 2.4.58
+Vulnerabilidades encontradas:
+  - CVE-2023-45801: Vulnerabilidad de escritura fuera de límites en mod_dav (CVSS: 8.2)
+  - CVE-2023-47761: Divulgación de información sensible en entornos de servidores virtuales (CVSS: 5.3)
+  - CVE-2023-25690: Vulnerabilidad de HTTP Request Smuggling en mod_proxy (CVSS: 7.1)
+  - CVE-2023-31122: Vulnerabilidad en mod_proxy_uwsgi (CVSS: 7.5)
+
+Tiempo total de escaneo: 3.29 segundos

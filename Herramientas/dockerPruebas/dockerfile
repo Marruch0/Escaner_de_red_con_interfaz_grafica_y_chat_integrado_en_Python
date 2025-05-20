@@ -1,0 +1,17 @@
+# Usamos una imagen base de Ubuntu
+FROM ubuntu:20.04
+
+# Instalamos herramientas necesarias
+RUN apt-get update && apt-get install -y \
+    net-tools iptables tcpdump \
+    && apt-get clean
+
+# Copiamos un script para configurar los puertos
+COPY configure_ports.sh /configure_ports.sh
+RUN chmod +x /configure_ports.sh
+
+# Exponemos varios puertos
+EXPOSE 8080 8081 8082 8083 9090 3000 3001
+
+# Ejecutamos el script al iniciar el contenedor
+CMD ["/configure_ports.sh"]
