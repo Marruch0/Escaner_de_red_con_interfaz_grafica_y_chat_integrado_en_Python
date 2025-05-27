@@ -1,0 +1,250 @@
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-25 13:25:17
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: Puertos comunes
+Modo sigilo: Activado
+Nivel de temporización: T3
+
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-25 13:25:40
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: Puertos comunes
+Modo sigilo: Activado
+Nivel de temporización: T3
+
+
+==== VULNERABILIDADES DETECTADAS ====
+
+Puerto 22: OpenSSH versión 9.6
+Vulnerabilidades encontradas:
+  - CVE-2024-6387: Vulnerabilidad de autenticación (SpectreSSH) (CVSS: 7.8)
+  - CVE-2024-8618: Desbordamiento de buffer en el procesamiento de paquetes (CVSS: 8.1)
+  - CVE-2024-3094: Vulnerabilidad de denegación de servicio en la negociación de algoritmos (CVSS: 6.5)
+
+Puerto 80: Apache versión 2.4.58
+Vulnerabilidades encontradas:
+  - CVE-2023-45801: Vulnerabilidad de escritura fuera de límites en mod_dav (CVSS: 8.2)
+  - CVE-2023-47761: Divulgación de información sensible en entornos de servidores virtuales (CVSS: 5.3)
+  - CVE-2023-25690: Vulnerabilidad de HTTP Request Smuggling en mod_proxy (CVSS: 7.1)
+  - CVE-2023-31122: Vulnerabilidad en mod_proxy_uwsgi (CVSS: 7.5)
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-25 13:33:13
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: Puertos comunes
+Modo sigilo: Activado
+Nivel de temporización: T5
+
+
+==== VULNERABILIDADES DETECTADAS ====
+
+Puerto 22: OpenSSH versión 9.6
+  No se encontraron vulnerabilidades conocidas
+
+Puerto 80: Apache versión 2.4.58
+  No se encontraron vulnerabilidades conocidas
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-25 13:33:22
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: Puertos comunes
+Modo sigilo: Activado
+Nivel de temporización: T5
+
+
+==== VULNERABILIDADES DETECTADAS ====
+
+Puerto 22: OpenSSH versión 9.6
+  No se encontraron vulnerabilidades conocidas
+
+Puerto 80: Apache versión 2.4.58
+  No se encontraron vulnerabilidades conocidas
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-25 13:33:32
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: Puertos comunes
+Modo sigilo: Activado
+Nivel de temporización: T2
+
+
+==== VULNERABILIDADES DETECTADAS ====
+
+Puerto 22: OpenSSH versión 9.6
+  No se encontraron vulnerabilidades conocidas
+
+Puerto 80: Apache versión 2.4.58
+  No se encontraron vulnerabilidades conocidas
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-25 13:36:06
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: Puertos comunes
+Modo sigilo: Desactivado
+Nivel de temporización: T3
+
+
+==== VULNERABILIDADES DETECTADAS ====
+
+Puerto 22: OpenSSH versión 9.6
+Vulnerabilidades encontradas:
+  - CVE-2024-6387: Vulnerabilidad de autenticación (SpectreSSH) (CVSS: 7.8)
+  - CVE-2024-8618: Desbordamiento de buffer en el procesamiento de paquetes (CVSS: 8.1)
+  - CVE-2024-3094: Vulnerabilidad de denegación de servicio en la negociación de algoritmos (CVSS: 6.5)
+
+Puerto 80: Apache versión 2.4.58
+Vulnerabilidades encontradas:
+  - CVE-2023-45801: Vulnerabilidad de escritura fuera de límites en mod_dav (CVSS: 8.2)
+  - CVE-2023-47761: Divulgación de información sensible en entornos de servidores virtuales (CVSS: 5.3)
+  - CVE-2023-25690: Vulnerabilidad de HTTP Request Smuggling en mod_proxy (CVSS: 7.1)
+  - CVE-2023-31122: Vulnerabilidad en mod_proxy_uwsgi (CVSS: 7.5)
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-25 16:51:00
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: Puertos comunes
+Modo sigilo: Activado
+Nivel de temporización: T2
+
+
+==== VULNERABILIDADES DETECTADAS ====
+
+Puerto 22: OpenSSH versión 9.6
+Vulnerabilidades encontradas:
+  - CVE-2024-6387: Vulnerabilidad de autenticación (SpectreSSH) (CVSS: 7.8)
+  - CVE-2024-8618: Desbordamiento de buffer en el procesamiento de paquetes (CVSS: 8.1)
+  - CVE-2024-3094: Vulnerabilidad de denegación de servicio en la negociación de algoritmos (CVSS: 6.5)
+
+Puerto 80: Apache versión 2.4.58
+Vulnerabilidades encontradas:
+  - CVE-2023-45801: Vulnerabilidad de escritura fuera de límites en mod_dav (CVSS: 8.2)
+  - CVE-2023-47761: Divulgación de información sensible en entornos de servidores virtuales (CVSS: 5.3)
+  - CVE-2023-25690: Vulnerabilidad de HTTP Request Smuggling en mod_proxy (CVSS: 7.1)
+  - CVE-2023-31122: Vulnerabilidad en mod_proxy_uwsgi (CVSS: 7.5)
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-26 20:06:54
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: Puertos comunes
+Modo sigilo: Activado
+Nivel de temporización: T3
+
+
+==== VULNERABILIDADES DETECTADAS ====
+
+Puerto 22: OpenSSH versión 9.6
+Vulnerabilidades encontradas:
+  - CVE-2024-6387: Vulnerabilidad de autenticación (SpectreSSH) (CVSS: 7.8)
+  - CVE-2024-8618: Desbordamiento de buffer en el procesamiento de paquetes (CVSS: 8.1)
+  - CVE-2024-3094: Vulnerabilidad de denegación de servicio en la negociación de algoritmos (CVSS: 6.5)
+
+Puerto 80: Apache versión 2.4.58
+Vulnerabilidades encontradas:
+  - CVE-2023-45801: Vulnerabilidad de escritura fuera de límites en mod_dav (CVSS: 8.2)
+  - CVE-2023-47761: Divulgación de información sensible en entornos de servidores virtuales (CVSS: 5.3)
+  - CVE-2023-25690: Vulnerabilidad de HTTP Request Smuggling en mod_proxy (CVSS: 7.1)
+  - CVE-2023-31122: Vulnerabilidad en mod_proxy_uwsgi (CVSS: 7.5)
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-26 20:12:17
+Usuario: root
+IP objetivo: 192.168.56.3
+Puertos: Puertos comunes
+Modo sigilo: Activado
+Nivel de temporización: T3
+
+
+==== VULNERABILIDADES DETECTADAS ====
+
+Puerto 22: OpenSSH versión 9.6
+Vulnerabilidades encontradas:
+  - CVE-2024-6387: Vulnerabilidad de autenticación (SpectreSSH) (CVSS: 7.8)
+  - CVE-2024-8618: Desbordamiento de buffer en el procesamiento de paquetes (CVSS: 8.1)
+  - CVE-2024-3094: Vulnerabilidad de denegación de servicio en la negociación de algoritmos (CVSS: 6.5)
+
+Puerto 80: Apache versión 2.4.58
+Vulnerabilidades encontradas:
+  - CVE-2023-45801: Vulnerabilidad de escritura fuera de límites en mod_dav (CVSS: 8.2)
+  - CVE-2023-47761: Divulgación de información sensible en entornos de servidores virtuales (CVSS: 5.3)
+  - CVE-2023-25690: Vulnerabilidad de HTTP Request Smuggling en mod_proxy (CVSS: 7.1)
+  - CVE-2023-31122: Vulnerabilidad en mod_proxy_uwsgi (CVSS: 7.5)
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-26 20:13:05
+Usuario: root
+IP objetivo: 192.168.56.3
+Puertos: Puertos comunes
+Modo sigilo: Activado
+Nivel de temporización: T3
+
+
+==== VULNERABILIDADES DETECTADAS ====
+
+Puerto 22: OpenSSH versión 9.6
+Vulnerabilidades encontradas:
+  - CVE-2024-6387: Vulnerabilidad de autenticación (SpectreSSH) (CVSS: 7.8)
+  - CVE-2024-8618: Desbordamiento de buffer en el procesamiento de paquetes (CVSS: 8.1)
+  - CVE-2024-3094: Vulnerabilidad de denegación de servicio en la negociación de algoritmos (CVSS: 6.5)
+
+Puerto 80: Apache versión 2.4.58
+Vulnerabilidades encontradas:
+  - CVE-2023-45801: Vulnerabilidad de escritura fuera de límites en mod_dav (CVSS: 8.2)
+  - CVE-2023-47761: Divulgación de información sensible en entornos de servidores virtuales (CVSS: 5.3)
+  - CVE-2023-25690: Vulnerabilidad de HTTP Request Smuggling en mod_proxy (CVSS: 7.1)
+  - CVE-2023-31122: Vulnerabilidad en mod_proxy_uwsgi (CVSS: 7.5)
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-26 20:14:13
+Usuario: root
+IP objetivo: 192.168.56.3
+Puertos: Puertos comunes
+Modo sigilo: Activado
+Nivel de temporización: T3
+
+
+==== VULNERABILIDADES DETECTADAS ====
+
+Puerto 22: OpenSSH versión 9.6
+Vulnerabilidades encontradas:
+  - CVE-2024-6387: Vulnerabilidad de autenticación (SpectreSSH) (CVSS: 7.8)
+  - CVE-2024-8618: Desbordamiento de buffer en el procesamiento de paquetes (CVSS: 8.1)
+  - CVE-2024-3094: Vulnerabilidad de denegación de servicio en la negociación de algoritmos (CVSS: 6.5)
+
+Puerto 80: Apache versión 2.4.58
+Vulnerabilidades encontradas:
+  - CVE-2023-45801: Vulnerabilidad de escritura fuera de límites en mod_dav (CVSS: 8.2)
+  - CVE-2023-47761: Divulgación de información sensible en entornos de servidores virtuales (CVSS: 5.3)
+  - CVE-2023-25690: Vulnerabilidad de HTTP Request Smuggling en mod_proxy (CVSS: 7.1)
+  - CVE-2023-31122: Vulnerabilidad en mod_proxy_uwsgi (CVSS: 7.5)

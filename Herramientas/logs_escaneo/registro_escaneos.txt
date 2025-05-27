@@ -396,3 +396,197 @@ Vulnerabilidades encontradas:
   - CVE-2023-31122: Vulnerabilidad en mod_proxy_uwsgi (CVSS: 7.5)
 
 Tiempo total de escaneo: 3.29 segundos
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-25 13:09:01
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: Puertos comunes
+Modo sigilo: Activado
+Nivel de temporización: T5
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Linux/Unix
+
+==== RESULTADOS DEL ESCANEO DE 192.168.56.10 ====
+Puerto 21: Cerrado (FTP) | Banner: N/A
+Puerto 22: Abierto (SSH) | Banner: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.11
+Puerto 23: Cerrado (Telnet) | Banner: N/A
+Puerto 25: Cerrado (SMTP) | Banner: N/A
+Puerto 53: Cerrado (DNS) | Banner: N/A
+Puerto 80: Abierto (HTTP) | Banner: HTTP/1.1 200 OK
+Date: Sun, 25 May 2025 11:09:01 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Fri, 09 May 2025 18:22:27 GMT
+ETag: "29af-634b80c6c8f4b"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+Puerto 110: Cerrado (POP3) | Banner: N/A
+Puerto 123: Cerrado (NTP) | Banner: N/A
+Puerto 135: Cerrado (Microsoft RPC) | Banner: N/A
+Puerto 139: Cerrado (NetBIOS) | Banner: N/A
+Puerto 143: Cerrado (IMAP) | Banner: N/A
+Puerto 443: Cerrado (HTTPS) | Banner: N/A
+Puerto 445: Cerrado (SMB) | Banner: N/A
+Puerto 993: Cerrado (IMAPS) | Banner: N/A
+Puerto 995: Cerrado (POP3S) | Banner: N/A
+Puerto 1433: Cerrado (Microsoft SQL Server) | Banner: N/A
+Puerto 3306: Cerrado (MySQL) | Banner: N/A
+Puerto 3389: Cerrado (RDP) | Banner: N/A
+Puerto 5900: Cerrado (VNC) | Banner: N/A
+Puerto 8080: Cerrado (HTTP Proxy) | Banner: N/A
+Puerto 8443: Cerrado (HTTPS-Alt) | Banner: N/A
+
+Tiempo total de escaneo: 0.26 segundos
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-25 13:09:19
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: Puertos comunes
+Modo sigilo: Activado
+Nivel de temporización: T3
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Linux/Unix
+
+==== RESULTADOS DEL ESCANEO DE 192.168.56.10 ====
+Puerto 21: Cerrado (FTP) | Banner: N/A
+Puerto 22: Abierto (SSH) | Banner: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.11
+Puerto 23: Cerrado (Telnet) | Banner: N/A
+Puerto 25: Cerrado (SMTP) | Banner: N/A
+Puerto 53: Cerrado (DNS) | Banner: N/A
+Puerto 80: Abierto (HTTP) | Banner: HTTP/1.1 200 OK
+Date: Sun, 25 May 2025 11:09:20 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Fri, 09 May 2025 18:22:27 GMT
+ETag: "29af-634b80c6c8f4b"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+Puerto 110: Cerrado (POP3) | Banner: N/A
+Puerto 123: Cerrado (NTP) | Banner: N/A
+Puerto 135: Cerrado (Microsoft RPC) | Banner: N/A
+Puerto 139: Cerrado (NetBIOS) | Banner: N/A
+Puerto 143: Cerrado (IMAP) | Banner: N/A
+Puerto 443: Cerrado (HTTPS) | Banner: N/A
+Puerto 445: Cerrado (SMB) | Banner: N/A
+Puerto 993: Cerrado (IMAPS) | Banner: N/A
+Puerto 995: Cerrado (POP3S) | Banner: N/A
+Puerto 1433: Cerrado (Microsoft SQL Server) | Banner: N/A
+Puerto 3306: Cerrado (MySQL) | Banner: N/A
+Puerto 3389: Cerrado (RDP) | Banner: N/A
+Puerto 5900: Cerrado (VNC) | Banner: N/A
+Puerto 8080: Cerrado (HTTP Proxy) | Banner: N/A
+Puerto 8443: Cerrado (HTTPS-Alt) | Banner: N/A
+
+Tiempo total de escaneo: 4.32 segundos
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-25 13:10:04
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: Puertos comunes
+Modo sigilo: Activado
+Nivel de temporización: T2
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Linux/Unix
+
+==== RESULTADOS DEL ESCANEO DE 192.168.56.10 ====
+Puerto 21: Filtrado (FTP) | Banner: N/A
+Puerto 22: Abierto (SSH) | Banner: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.11
+Puerto 23: Filtrado (Telnet) | Banner: N/A
+Puerto 25: Filtrado (SMTP) | Banner: N/A
+Puerto 53: Filtrado (DNS) | Banner: N/A
+Puerto 80: Abierto (HTTP) | Banner: HTTP/1.1 200 OK
+Date: Sun, 25 May 2025 11:10:07 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Fri, 09 May 2025 18:22:27 GMT
+ETag: "29af-634b80c6c8f4b"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+Puerto 110: Filtrado (POP3) | Banner: N/A
+Puerto 123: Filtrado (NTP) | Banner: N/A
+Puerto 135: Filtrado (Microsoft RPC) | Banner: N/A
+Puerto 139: Filtrado (NetBIOS) | Banner: N/A
+Puerto 143: Filtrado (IMAP) | Banner: N/A
+Puerto 443: Cerrado (HTTPS) | Banner: N/A
+Puerto 445: Cerrado (SMB) | Banner: N/A
+Puerto 993: Filtrado (IMAPS) | Banner: N/A
+Puerto 995: Cerrado (POP3S) | Banner: N/A
+Puerto 1433: Filtrado (Microsoft SQL Server) | Banner: N/A
+Puerto 3306: Cerrado (MySQL) | Banner: N/A
+Puerto 3389: Filtrado (RDP) | Banner: N/A
+Puerto 5900: Filtrado (VNC) | Banner: N/A
+Puerto 8080: Cerrado (HTTP Proxy) | Banner: N/A
+Puerto 8443: Filtrado (HTTPS-Alt) | Banner: N/A
+
+==== VULNERABILIDADES DETECTADAS ====
+
+Puerto 22: OpenSSH versión 9.6
+Vulnerabilidades encontradas:
+  - CVE-2024-6387: Vulnerabilidad de autenticación (SpectreSSH) (CVSS: 7.8)
+  - CVE-2024-8618: Desbordamiento de buffer en el procesamiento de paquetes (CVSS: 8.1)
+  - CVE-2024-3094: Vulnerabilidad de denegación de servicio en la negociación de algoritmos (CVSS: 6.5)
+
+Puerto 80: Apache versión 2.4.58
+Vulnerabilidades encontradas:
+  - CVE-2023-45801: Vulnerabilidad de escritura fuera de límites en mod_dav (CVSS: 8.2)
+  - CVE-2023-47761: Divulgación de información sensible en entornos de servidores virtuales (CVSS: 5.3)
+  - CVE-2023-25690: Vulnerabilidad de HTTP Request Smuggling en mod_proxy (CVSS: 7.1)
+  - CVE-2023-31122: Vulnerabilidad en mod_proxy_uwsgi (CVSS: 7.5)
+
+Tiempo total de escaneo: 12.60 segundos
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-25 13:10:40
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: 12345
+Modo sigilo: Desactivado
+Nivel de temporización: T3
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Linux/Unix
+
+==== RESULTADOS DEL ESCANEO DE 192.168.56.10 ====
+Puerto 12345: Cerrado (Desconocido) | Banner: N/A
+
+Tiempo total de escaneo: 1.29 segundos
+
+==================================================
+
+==== NUEVO ESCANEO ====
+Fecha y hora: 2025-05-25 13:11:13
+Usuario: root
+IP objetivo: 192.168.56.10
+Puertos: 12345
+Modo sigilo: Activado
+Nivel de temporización: T1
+
+
+==== SISTEMA OPERATIVO DETECTADO ====
+SO: Linux/Unix
+
+==== RESULTADOS DEL ESCANEO DE 192.168.56.10 ====
+Puerto 12345: Filtrado (Desconocido) | Banner: N/A
+
+Tiempo total de escaneo: 6.91 segundos
