@@ -1,6 +1,10 @@
 <h1 align="center" style="color:#2b7a78;">Manual Usuario Técnico</h1>
 
 <p align="center">
+  <img src="logo.png" alt="Logo" width="200"/>
+</p>
+
+<p align="center">
   <b><span style="color:#17252a;">TFG: Escáner de red con interfaz gráfica y chat integrado en Python</span></b><br>
   <b>Autor:</b> <span style="color:#3aafa9;">Jesús Sánchez Sánchez</span> <br>
   <b>Grado:</b> <span style="color:#3aafa9;">ASIR</span> <br>
