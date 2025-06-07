@@ -1,13 +1,15 @@
-# Manual Usuario Técnico
+<h1 align="center" style="color:#2b7a78;">Manual Usuario Técnico</h1>
 
-**TFG: Escáner de red con interfaz gráfica y chat integrado en Python**  
-**Autor:** Jesús Sánchez Sánchez  
-**Grado:** ASIR  
-**Fecha:** 09/06/2025
+<p align="center">
+  <b><span style="color:#17252a;">TFG: Escáner de red con interfaz gráfica y chat integrado en Python</span></b><br>
+  <b>Autor:</b> <span style="color:#3aafa9;">Jesús Sánchez Sánchez</span> <br>
+  <b>Grado:</b> <span style="color:#3aafa9;">ASIR</span> <br>
+  <b>Fecha:</b> <span style="color:#3aafa9;">09/06/2025</span>
+</p>
 
----
+<hr style="border:1px solid #3aafa9;">
 
-## Índice
+## <span style="color:#2b7a78;">Índice</span>
 
 - [Introducción](#introducción)
 - [Requisitos](#requisitos)
@@ -94,7 +96,7 @@ La herramienta incluye:
 
 El primer paso será **clonar el repositorio de GitHub** utilizando el siguiente comando:
 
-```bash
+``` bash
 git clone https://github.com/Marruch0/TFG.git
 ```
 
@@ -102,7 +104,7 @@ git clone https://github.com/Marruch0/TFG.git
 
 Ejecuta `requerido.sh` para instalar todas las **dependencias** necesarias:
 
-```bash
+``` bash
 bash requerido.sh
 ```
 
