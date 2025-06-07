@@ -281,6 +281,7 @@ Accede desde el menú lateral ("Escáner Hosts").
 Disponible para cualquier usuario.
 
 ![imagen](https://github.com/user-attachments/assets/b5eeed7f-740e-4f14-a9d5-5781263fad9a)
+
 Nos encontramos con lo siguiente:
 - **Red objetivo:** Dirección de red (ej. 192.168.56.0/24)
 - **Interfaz de red:** Selecciona la interfaz mediante desplegable
