@@ -230,6 +230,7 @@ Accede desde el menú lateral ("Escáner Puertos").
 Disponible para usuarios normales y administradores.
 
 ![imagen](https://github.com/user-attachments/assets/e192cb7c-a8e8-4558-b8e2-730a801794db)
+
 Nos encontraremos con lo siguiente:
 - **Ip Objetivo:** Dirección IP a escanear.
 - **Puertos a escanear:**
