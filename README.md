@@ -3,7 +3,7 @@
 **TFG: Escáner de red con interfaz gráfica y chat integrado en Python**  
 **Autor:** Jesús Sánchez Sánchez  
 **Grado:** ASIR  
-**Fecha:** 09/06/
+**Fecha:** 09/06/2025
 
 ---
 
@@ -95,7 +95,7 @@ La herramienta incluye:
 El primer paso será **clonar el repositorio de GitHub** utilizando el siguiente comando:
 
 ```bash
-git clone <url>
+git clone https://github.com/Marruch0/TFG.git
 ```
 
 ### Instalar Dependencias
