@@ -178,14 +178,19 @@ La herramienta incluye un **chat**.
 Para enviar un mensaje escribe en la parte inferior y pulsa **"Enter"** o **"Enviar"**.
 
 - Si se conecta un usuario, el chat avisará.
+
 ![imagen](https://github.com/user-attachments/assets/31427ed0-b758-428c-a4e0-f06cb511537a)
+
 - Los mensajes aparecen en tiempo real.
 ![imagen](https://github.com/user-attachments/assets/01700fb1-9f71-4c1f-8e6a-23abd2756b10)
+
 - Las palabras malsonantes serán censuradas automáticamente.
 ![imagen](https://github.com/user-attachments/assets/17946834-424a-4387-aa9d-bcd9545d7491)
 
 Para ver los **usuarios conectados** pulsa el botón **"Usuarios conectados"** en la parte inferior.  
+
 ![imagen](https://github.com/user-attachments/assets/f13e1762-f580-43a2-bf90-446e010b22e1)
+
 Aparecerá la lista de usuarios conectados.
 ![imagen](https://github.com/user-attachments/assets/b44fd7d4-bd15-4a3b-8484-ae0413334b66)
 
@@ -214,6 +219,7 @@ En el panel puedes:
   - **Ver logs:** Muestra logs de la herramienta.
   - **Ver Usuarios:** Diferencia entre user y admin, muestra quién está conectado.
   - **Ver Baneados:** Lista usuarios baneados, duración, por quién y razón.
+
 ![imagen](https://github.com/user-attachments/assets/ce33f9ee-b046-44bb-82d5-ac5a30f04cec)
 
 ---
@@ -222,6 +228,7 @@ En el panel puedes:
 
 Accede desde el menú lateral ("Escáner Puertos").  
 Disponible para usuarios normales y administradores.
+
 ![imagen](https://github.com/user-attachments/assets/e192cb7c-a8e8-4558-b8e2-730a801794db)
 Nos encontraremos con lo siguiente:
 - **Ip Objetivo:** Dirección IP a escanear.
@@ -244,6 +251,7 @@ Nos encontraremos con lo siguiente:
   - **T3: Normal:** Equilibrio
   - **T4: Aggressive:** Rápido
   - **T5: Insane:** Muy rápido, puede perder información
+
 ![imagen](https://github.com/user-attachments/assets/d9a22ca1-12c3-4bc1-b5a0-08cb1c62cfa6)
 
 ---
@@ -259,8 +267,10 @@ Ejemplo de escaneo:
 
 **Resultados:**
 - **Resultado en texto**
+
 ![imagen](https://github.com/user-attachments/assets/34fb0fd8-b89d-4e46-83ef-69b6b3c643f5)
 - **Gráfico**
+
 ![imagen](https://github.com/user-attachments/assets/acd4c38f-1728-4324-84c7-4e32cfef93c9)
 
 ---
@@ -269,6 +279,7 @@ Ejemplo de escaneo:
 
 Accede desde el menú lateral ("Escáner Hosts").  
 Disponible para cualquier usuario.
+
 ![imagen](https://github.com/user-attachments/assets/b5eeed7f-740e-4f14-a9d5-5781263fad9a)
 Nos encontramos con lo siguiente:
 - **Red objetivo:** Dirección de red (ej. 192.168.56.0/24)
@@ -276,6 +287,7 @@ Nos encontramos con lo siguiente:
 - **Tiempo de espera:** Ajusta el timeout
 - **Número de reintentos:** Intentos por host
 - **Checkbox:** Generar diagrama de red
+
 ![imagen](https://github.com/user-attachments/assets/08a3c9cb-df70-4727-a935-306fc0d60e33)
 
 ---
@@ -292,9 +304,11 @@ Escaneo en entorno controlado:
 
 **Resultados:**
 - **En texto**
+
 ![imagen](https://github.com/user-attachments/assets/8e9f387d-e9df-464b-ab25-7a8ec23cb862)
 
 - **Topología de red**
+
 ![imagen](https://github.com/user-attachments/assets/a5584858-9981-4c87-a400-55edf08b6860)
 
 ---
@@ -302,6 +316,7 @@ Escaneo en entorno controlado:
 ### Configuración de la interfaz
 
 Puedes **ajustar el zoom** de la interfaz para ver los resultados correctamente, pulsando los botones "+" o "-" en el menú lateral.
+
 ![imagen](https://github.com/user-attachments/assets/d3a47781-7b3e-43bb-b708-67c830157feb)
 
 
