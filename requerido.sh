@@ -105,6 +105,33 @@ fi
 # Verificar si tenemos permisos de sudo
 setup_pip_command
 
+# Crear y activar entorno virtual automáticamente si no se detecta
+log_info "Verificando entorno virtual de Python..."
+if [ -z "$VIRTUAL_ENV" ]; then
+    log_warning "No se detectó un entorno virtual de Python. Creando uno automáticamente..."
+    python3 -m venv venv
+    if [ $? -eq 0 ]; then
+        log_success "Entorno virtual creado exitosamente. Activando..."
+        source venv/bin/activate
+        log_success "Entorno virtual activado: $(pwd)/venv"
+    else
+        log_error "Error al crear el entorno virtual. Por favor, verifica tu instalación de Python."
+        exit 1
+    fi
+else
+    log_success "Entorno virtual detectado: $VIRTUAL_ENV"
+fi
+
+# Verificar permisos de escritura en el directorio actual
+log_info "Verificando permisos de escritura en el directorio actual..."
+if [ ! -w . ]; then
+    log_error "No tienes permisos de escritura en el directorio actual."
+    log_info "Por favor, ejecuta este script desde un directorio donde tengas permisos de escritura."
+    exit 1
+else
+    log_success "Permisos de escritura verificados."
+fi
+
 echo ""
 log_info "Iniciando instalación de dependencias Python..."
 echo ""
