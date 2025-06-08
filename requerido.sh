@@ -212,6 +212,19 @@ else
     log_info "Para instalar: sudo apt install tcpdump (Debian/Ubuntu) o sudo yum install tcpdump (RedHat/Fedora)"
 fi
 
+# Verificar si el entorno está gestionado externamente
+log_info "Verificando entorno de Python gestionado externamente..."
+if python3 -m ensurepip --version 2>/dev/null; then
+    log_success "El entorno de Python permite instalaciones con pip."
+else
+    log_warning "El entorno de Python está gestionado externamente. Usando apt para instalar dependencias del sistema."
+    log_info "Instalando dependencias con apt..."
+    sudo apt update
+    sudo apt install -y python3-pip python3-venv python3-numpy python3-matplotlib python3-scapy
+    log_success "Dependencias instaladas con apt."
+    exit 0
+fi
+
 # Resumen final
 echo ""
 echo "======================================================================"
