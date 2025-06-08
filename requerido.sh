@@ -64,8 +64,8 @@ install_package() {
     
     log_installing "Instalando $description ($package)..."
     
-    # Usar el comando pip determinado anteriormente
-    if $PIP_CMD install "$package" --user 2>/dev/null || $PIP_CMD install "$package"; then
+    # Usar el comando pip determinado anteriormente con el flag --break-system-packages
+    if $PIP_CMD install "$package" --user --break-system-packages 2>/dev/null || $PIP_CMD install "$package" --break-system-packages; then
         log_success "$description instalado correctamente"
         return 0
     else
@@ -217,11 +217,19 @@ log_info "Verificando entorno de Python gestionado externamente..."
 if python3 -m ensurepip --version 2>/dev/null; then
     log_success "El entorno de Python permite instalaciones con pip."
 else
-    log_warning "El entorno de Python está gestionado externamente. Usando apt para instalar dependencias del sistema."
-    log_info "Instalando dependencias con apt..."
-    sudo apt update
-    sudo apt install -y python3-pip python3-venv python3-numpy python3-matplotlib python3-scapy
-    log_success "Dependencias instaladas con apt."
+    log_warning "El entorno de Python está gestionado externamente. Intentando forzar la instalación de dependencias..."
+    for package in "${!packages[@]}"; do
+        description="${packages[$package]}"
+        log_installing "Forzando instalación de $description ($package)..."
+        if $PIP_CMD install "$package" --break-system-packages; then
+            log_success "$description instalado correctamente (forzado)"
+            ((successful_installs++))
+        else
+            log_error "Error al instalar $description ($package) incluso con instalación forzada"
+            ((failed_installs++))
+            failed_packages+=("$package")
+        fi
+    done
     exit 0
 fi
 
